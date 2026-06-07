@@ -66,6 +66,6 @@ Otsu Thresholded Binary Ants Image:
 
 **Example Output (Console):**  
 ```text
-Peaks: [[22.5, 95], [32.1, 88], [46.7, 77], [54.3, 80]]
-Lattice constants (nm): [0.402, 0.216, 0.401, 0.218]
-Average lattice constant (nm): 0.309
+Peaks: [[22.1, 111.0], [19.7, 27.0], [49.2,26.0], [43.0, 5.0]]
+Lattice constants (nm): [0.204 0.206 0.203 0.204]
+Average lattice constant (nm): 0.205

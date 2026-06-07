@@ -67,5 +67,6 @@ Otsu Thresholded Binary Ants Image:
 **Example Output (Console):**  
 ```text
 Peaks: [[22.1, 111.0], [19.7, 27.0], [49.2,26.0], [43.0, 5.0]]
-Lattice constants (nm): [0.204 0.206 0.203 0.204]
-Average lattice constant (nm): 0.205
+d (nm): [0.204 0.206 0.203 0.204]
+LiF is face centered cubic lattice.
+Lattice constant (nm): 0.205
